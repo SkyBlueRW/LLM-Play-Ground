@@ -1,1 +1,1 @@
-# Duke-LLMOPs
+# LLM Play Ground
